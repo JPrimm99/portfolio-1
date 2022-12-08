@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    margin: 0 auto;
+    padding:0 3rem;
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.image{
+    text-align: center; 
+}
+body{
+    background: url(/images/connect1.jpg);
+    background-position: 0 1000px;
+    font-family:sans-serif ;
+}
+
